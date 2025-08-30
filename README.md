@@ -4,9 +4,10 @@
 
 ### 🚀 Backend Developer
 
-I'm a passionate Backend Developer specializing in Python-based web development. I love building scalable APIs and solving complex problems. Active hackathon participant and LeetCode problem solver.
+I'm a passionate Backend Developer specializing in Python-based web development. Currently studying **Computer Science and Information Technology** at Kuban State University (KubSU). I love building scalable APIs and solving complex problems. Active hackathon participant and LeetCode problem solver.
 
-- 🔭 **Currently working on:** FastAPI
+- 🎓 **Education:** Kuban State University, 2nd year - Fundamental Informatics and Information Technology
+- 🔭 **Currently working on:** FastAPI projects
 - 🌱 **Currently learning:** Advanced PostgreSQL optimization, FastAPI deep features
 - 👯 **Looking to collaborate on:** Hackathons, Open Source Projects
 - 💬 **Ask me about:** FastAPI, Django, PostgreSQL, Python
@@ -34,7 +35,7 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 **Database: **
 [![PostgreSQL](https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000)](https://www.postgresql.org/)
 [![Redis](https://img.icons8.com/?size=100&id=lhwQTv6iwznO&format=png&color=000000)](https://redis.io/)
-[![SQLite](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000)](https://www.sqlite.org/)
+[![SQLite](https://logo.svgcdn.com/d/sqlite-original.png)](https://www.sqlite.org/)
 
 **Tools & DevOps: **
 [![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/)
@@ -89,3 +90,10 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 [![Django Project](https://github-readme-stats.vercel.app/api/pin/?username=Fantom51&repo=math-tutoring-enroll-now&theme=dark)](https://github.com/Fantom51/math-tutoring-enroll-now)
 
 ---
+<div align="center">
+  
+![Visitors](https://komarev.com/ghpvc/?username=Kuznetsov-Alexander&style=flat-square&color=blueviolet)
+
+⭐️ **From Kuznetsov Alexander** | 🎓 **KubSU FITI**
+
+</div>
