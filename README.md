@@ -86,15 +86,8 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 ### 👨‍💻 Featured Projects
 
-[![FastAPI Project](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_FASTAPI_REPO&theme=dark)](https://github.com/YOUR_USERNAME/YOUR_FASTAPI_REPO)
+[![FastAPI Project](https://github.com/Kuznetsov-Alexander/FastAPI.git)
 
-[![Django Project](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_DJANGO_REPO&theme=dark)](https://github.com/YOUR_USERNAME/YOUR_DJANGO_REPO)
+[![Django Project](https://github.com/Fantom51/math-tutoring-enroll-now.git)
 
 ---
-
-### 🚀 Hackathon Achievements
-
-```text
-🎯 5+ Hackathons participated
-🏆 3x Winner in backend challenges
-💡 Built 10+ prototypes in 48h
