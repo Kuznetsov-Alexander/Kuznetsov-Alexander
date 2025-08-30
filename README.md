@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Your Name]
+# Hello! 👋 I'm Kuznetsov Alexander
 
 ---
 
@@ -6,7 +6,7 @@
 
 I'm a passionate Backend Developer specializing in Python-based web development. I love building scalable APIs and solving complex problems. Active hackathon participant and LeetCode problem solver.
 
-- 🔭 **Currently working on:** [Your Current Project]
+- 🔭 **Currently working on:** FastAPI
 - 🌱 **Currently learning:** Advanced PostgreSQL optimization, FastAPI deep features
 - 👯 **Looking to collaborate on:** Hackathons, Open Source Projects
 - 💬 **Ask me about:** FastAPI, Django, PostgreSQL, Python
@@ -17,7 +17,7 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 ### 🏆 Achievements
 
 - 🏅 **Hackathon Winner** - [Name of Hackathon] 2024
-- ⭐ **LeetCode** - 500+ problems solved | Top 10% contributor
+- ⭐ **LeetCode** - 50+ problems solved | Top 10% contributor
 - 🚀 **Backend Expertise** - 3+ years in Python development
 - 🎯 **API Development** - Built 20+ RESTful APIs
 
@@ -26,14 +26,14 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 ### 🛠️ Tech Stack
 
 **Backend:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 **Database:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000)
+![Redis](https://img.icons8.com/?size=100&id=lhwQTv6iwznO&format=png&color=000000)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & DevOps:**
@@ -75,10 +75,8 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 <div align="center">
 
 [![Telegram](https://img.icons8.com/?size=100&id=7jrHorBRorpX&format=png&color=000000)](https://t.me/YOUR_TELEGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:YOUR_EMAIL)
 
 </div>
 
