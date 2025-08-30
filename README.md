@@ -1,5 +1,7 @@
 # Hello! 👋 I'm [Your Name]
 
+---
+
 ### 🚀 Backend Developer
 
 I'm a passionate Backend Developer specializing in Python-based web development. I love building scalable APIs and solving complex problems. Active hackathon participant and LeetCode problem solver.
@@ -10,12 +12,16 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 - 💬 **Ask me about:** FastAPI, Django, PostgreSQL, Python
 - ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes
 
+---
+
 ### 🏆 Achievements
 
 - 🏅 **Hackathon Winner** - [Name of Hackathon] 2024
 - ⭐ **LeetCode** - 500+ problems solved | Top 10% contributor
 - 🚀 **Backend Expertise** - 3+ years in Python development
 - 🎯 **API Development** - Built 20+ RESTful APIs
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -36,6 +42,8 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -48,13 +56,19 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 </div>
 
+---
+
 ### 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=2&column=4)
 
-### 📈 Coding Activity
+---
+
+### 📈 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Abel&ext=contest)
+
+---
 
 ### 🤝 Connect With Me
 
@@ -68,16 +82,19 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 </div>
 
+---
+
 ### 👨‍💻 Featured Projects
 
 [![FastAPI Project](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_FASTAPI_REPO&theme=dark)](https://github.com/YOUR_USERNAME/YOUR_FASTAPI_REPO)
 
 [![Django Project](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_DJANGO_REPO&theme=dark)](https://github.com/YOUR_USERNAME/YOUR_DJANGO_REPO)
 
-### 🏅 LeetCode Progress
+---
+
+### 🚀 Hackathon Achievements
 
 ```text
-📊 Solved Problems: 500+
-⭐ Easy: 200+ | Medium: 250+ | Hard: 50+
-🏆 Contest Rating: 1800+
-📈 Top 10% among users
+🎯 5+ Hackathons participated
+🏆 3x Winner in backend challenges
+💡 Built 10+ prototypes in 48h
