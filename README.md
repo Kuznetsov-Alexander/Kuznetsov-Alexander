@@ -61,8 +61,11 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 ---
 
 ### 🏆 GitHub Trophies
+<div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Kuznetsov-Alexander&theme=darkhub&no-frame=true&row=2&column=4)
+
+</div>
 ---
 
 ### 📈 LeetCode Stats
@@ -75,9 +78,9 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 <div align="center">
 
-[![Telegram](https://img.icons8.com/?size=100&id=7jrHorBRorpX&format=png&color=000000)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.icons8.com/?size=100&id=7jrHorBRorpX&format=png&color=000000)](https://t.me/@al_lexk)
 [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:YOUR_EMAIL)
+[![Email](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:project46446@gmail.com)
 
 </div>
 
