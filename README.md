@@ -31,7 +31,7 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 [![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)](https://www.python.org/)
 [<img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="90" height="130" alt="FastAPI" style="filter: invert(0%)" />](https://fastapi.tiangolo.com/)
 [![Django](https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000)](https://www.djangoproject.com/)
-[<img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" width="90" height="130" alt="Django REST" />](https://www.django-rest-framework.org/)
+[<img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" width="150" height="130" alt="Django REST" />](https://www.django-rest-framework.org/)
 
 **<span style="font-size: 18px;">Database:</span>**
 [![PostgreSQL](https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000)](https://www.postgresql.org/)
@@ -65,8 +65,7 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 ### 🏆 GitHub Trophies
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kuznetsov-Alexander&theme=darkhub&no-frame=true&row=2&column=4)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kuznetsov-Alexander&theme=darkhub&no-frame=true&row=1&column=3)
 </div>
 
 ---
@@ -84,7 +83,7 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 <div align="center">
 
-[![Telegram](https://img.icons8.com/?size=100&id=7jrHorBRorpX&format=png&color=000000)](https://t.me/@al_lexk)
+[![Telegram](https://img.icons8.com/?size=100&id=7jrHorBRorpX&format=png&color=000000)](https://t.me/al_lexk)
 [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:project46446@gmail.com)
 
