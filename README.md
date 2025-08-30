@@ -26,33 +26,47 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 ### 🛠️ Tech Stack
 
 **Backend:**
-![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
-<img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="90" height="130" alt="FastAPI" style="filter: invert(0%)" />
-![Django](https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000)
-<img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" width="90" height="130" alt="FastAPI" style="filter: invert(0%)" />
+[![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)](https://www.python.org/)
+[![FastAPI](https://icon.icepanel.io/Technology/svg/FastAPI.svg width="90" height="130" alt="FastAPI" style="filter: invert(0%)")](https://fastapi.tiangolo.com/)
+[![Django](https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000)](https://www.djangoproject.com/)
+[![Django REST](https://icon.icepanel.io/Technology/svg/Django-REST.svg width="90" height="130" alt="Django REST" style="filter: invert(0%)")](https://www.django-rest-framework.org/)
 
 **Database:**
-![PostgreSQL](https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000)
-![Redis](https://img.icons8.com/?size=100&id=lhwQTv6iwznO&format=png&color=000000)
-![SQLite](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000)
+[![PostgreSQL](https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000)](https://www.postgresql.org/)
+[![Redis](https://img.icons8.com/?size=100&id=lhwQTv6iwznO&format=png&color=000000)](https://redis.io/)
+[![SQLite](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000)](https://www.sqlite.org/)
 
 **Tools & DevOps:**
-![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)
-![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
-![NGINX](https://img.icons8.com/?size=100&id=f8puwbhs0kUR&format=png&color=000000)
-![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)
+[![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/)
+[![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)](https://git-scm.com/)
+[![NGINX](https://img.icons8.com/?size=100&id=f8puwbhs0kUR&format=png&color=000000)](https://www.nginx.com/)
+[![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)](https://www.linux.org/)
 
 ---
+
+<style>
+  img[alt="FastAPI"],
+  img[alt="Django REST"] {
+    background: white;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px;
+  }
+  img:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s ease;
+  }
+</style>
 
 ### 📊 GitHub Stats
 
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuznetsov-Alexander&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuznetsov-Alexander&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kuznetsov-Alexander&theme=dark&hide_border=true)
 
 </div>
 
@@ -60,8 +74,7 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=2&column=4)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kuznetsov-Alexander&theme=darkhub&no-frame=true&row=2&column=4)
 ---
 
 ### 📈 LeetCode Stats
