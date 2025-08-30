@@ -74,39 +74,13 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20&labelColor=000000&color=2CA5E0)](https://t.me/YOUR_TELEGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0077B5)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000&color=FFA116)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=D14836)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=181717)](https://github.com/YOUR_USERNAME)
+[![Telegram](https://img.icons8.com/?size=100&id=7jrHorBRorpX&format=png&color=000000)](https://t.me/YOUR_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
-
-<style>
-  .md-sidebar--secondary {
-    display: none !important;
-  }
-  .md-content {
-    margin-right: 0 !important;
-  }
-  [class*="badge"] {
-    border-radius: 50% !important;
-    width: 60px !important;
-    height: 60px !important;
-    display: inline-flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-    margin: 0 8px !important;
-    text-decoration: none !important;
-    transition: transform 0.2s ease !important;
-  }
-  [class*="badge"]:hover {
-    transform: scale(1.1) !important;
-  }
-  [class*="badge"] img {
-    margin: 0 !important;
-  }
-</style>
 
 ---
 
