@@ -66,7 +66,7 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 ### 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Abel&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Alex_Kuznetsov?theme=dark&font=Abel&ext=contest)
 
 ---
 
@@ -86,8 +86,8 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 ### 👨‍💻 Featured Projects
 
-[![FastAPI Project](https://github.com/Kuznetsov-Alexander/FastAPI.git)
+[![FastAPI Project](https://github-readme-stats.vercel.app/api/pin/?username=Kuznetsov-Alexander&repo=FastAPI&theme=dark)](https://github.com/Kuznetsov-Alexander/FastAPI)
 
-[![Django Project](https://github.com/Fantom51/math-tutoring-enroll-now.git)
+[![Django Project](https://github-readme-stats.vercel.app/api/pin/?username=Fantom51&repo=math-tutoring-enroll-now&theme=dark)](https://github.com/Fantom51/math-tutoring-enroll-now)
 
 ---
