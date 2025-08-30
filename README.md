@@ -17,7 +17,7 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 ### 🏆 Achievements
 
-- 🏅 **Hackathon Winner** - [Name of Hackathon] 2024
+- 🏅 **Hackathon Winner** - Воронка инновационных стартапов 2024
 - ⭐ **LeetCode** - 50+ problems solved | Top 10% contributor
 - 🚀 **Backend Expertise** - 3+ years in Python development
 - 🎯 **API Development** - Built 20+ RESTful APIs
