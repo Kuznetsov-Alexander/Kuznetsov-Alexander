@@ -27,7 +27,7 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 **Backend:**
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fastapi/fastapi-original.svg)
 ![Django](https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
