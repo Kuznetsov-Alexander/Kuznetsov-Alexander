@@ -26,22 +26,24 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 ### 🛠️ Tech Stack
 
-**Backend:**
+
+**<span style="font-size: 18px;">Backend:</span>**
 [![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)](https://www.python.org/)
 [<img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="90" height="130" alt="FastAPI" style="filter: invert(0%)" />](https://fastapi.tiangolo.com/)
 [![Django](https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000)](https://www.djangoproject.com/)
 [<img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" width="90" height="130" alt="Django REST" />](https://www.django-rest-framework.org/)
 
-**Database:**
+**<span style="font-size: 18px;">Database:</span>**
 [![PostgreSQL](https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000)](https://www.postgresql.org/)
 [![Redis](https://img.icons8.com/?size=100&id=lhwQTv6iwznO&format=png&color=000000)](https://redis.io/)
 [![SQLite](https://logo.svgcdn.com/d/sqlite-original.png)](https://www.sqlite.org/)
 
-**Tools & DevOps:**
+**<span style="font-size: 18px;">Tools & DevOps:</span>**
 [![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/)
 [![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)](https://git-scm.com/)
 [![NGINX](https://img.icons8.com/?size=100&id=f8puwbhs0kUR&format=png&color=000000)](https://www.nginx.com/)
 [![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)](https://www.linux.org/)
+
 ---
 
 
