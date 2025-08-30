@@ -27,20 +27,20 @@ I'm a passionate Backend Developer specializing in Python-based web development.
 
 **Backend:**
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
-![FastAPI](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fastapi/fastapi-original.svg)
+<img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="90" height="130" alt="FastAPI" style="filter: invert(0%)" />
 ![Django](https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+<img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" width="90" height="130" alt="FastAPI" style="filter: invert(0%)" />
 
 **Database:**
 ![PostgreSQL](https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000)
 ![Redis](https://img.icons8.com/?size=100&id=lhwQTv6iwznO&format=png&color=000000)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000)
 
 **Tools & DevOps:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+![NGINX](https://img.icons8.com/?size=100&id=f8puwbhs0kUR&format=png&color=000000)
+![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)
 
 ---
 
